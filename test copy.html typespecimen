@@ -1,0 +1,433 @@
+<head></head> 
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+
+
+<div id="wrap">
+  
+  <style>
+  body {
+     font-family:'Poiret One', sans-serif;
+}
+</style>
+
+
+	<h1 id="masthead" class="clearfix">
+		<span class="poiret"><span>Poiret</span></span>
+		<span class="one">&nbsp<span>One</span></span>
+	</h1> <!-- /#masthead -->
+
+	<p id="tagline">A fresh decorative geometric grotesque with a hint of Art Deco and c‘onstructivism.</p>
+
+	<div id="info" class="clearfix">
+		<div id="history">
+			<h2>History</h2>
+
+			<p> <em>Poiret One</em> is a unique typeface with light forms and pure elegance. Sleek and simple. Based on geometric forms, it has stylish lines and graceful curves. The font is applicable for large signs, labels, titles, headlines and any type of graphic design on the web, in motion graphics, or in print - from t-shirts to posters and logos.
+It is also well-suited for short texts and advertising where style is desired. Complete with a lower-case letters, the Poiret One is also useful for all-caps usage.</p>
+	</div>
+		
+		<div>
+			<h2>Denis Masharov</h2>
+			<p>Born in Moscow in 1973, he emigrated to Israel in 1990 and has a Bachelor of Arts degree from the Bezalel Jerusalem Academy of Arts, 1996. A professional designer since 1996, he designs type and is involved in typographic projects.</p>
+				
+			<p> <em>The font I am exploring in this assignment called Poirer One. It was realised on June 2, 2017 by Denis Masharov* </em> </p>
+		
+
+ 
+		</div>
+	</div> <!-- /#info -->
+
+	<div id="chars" class="clearfix">
+		<div id="reg" class="drawer clearfix">
+			<div class="uppercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>0</span>
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span>4</span>
+				<span>5</span>
+				<span>6</span>
+				<span>7</span>
+				<span>8</span>
+				<span>9</span>
+				<span>&amp;</span>
+				<span>!</span>
+				<span>?</span>
+			</div>
+		
+			<div class="lowercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>&para;</span>
+				<span>,</span>
+				<span>:</span>
+				<span>;</span>
+				<span>@</span>
+				<span>*</span>
+				<span>$</span>
+				<span>%</span>
+				<span>#</span>
+				<span>&#8220;</span>
+				<span>&#8221;</span>
+				<span>&#189;</span>
+				<span>&copy;</span>
+			</div>
+		</div> <!-- /.drawer -->
+
+		<div id="ital" class="drawer clearfix">
+			<div class="uppercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>0</span>
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span>4</span>
+				<span>5</span>
+				<span>6</span>
+				<span>7</span>
+				<span>8</span>
+				<span>9</span>
+				<span>&amp;</span>
+				<span>!</span>
+				<span>?</span>
+			</div>
+		
+			<div class="lowercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>&para;</span>
+				<span>,</span>
+				<span>:</span>
+				<span>;</span>
+				<span>@</span>
+				<span>*</span>
+				<span>$</span>
+				<span>%</span>
+				<span>#</span>
+				<span>&#8220;</span>
+				<span>&#8221;</span>
+				<span>&#189;</span>
+				<span>&copy;</span>
+			</div>
+		</div> <!-- /#ital .drawer -->
+
+		<div id="bold" class="drawer clearfix">
+			<div class="uppercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>0</span>
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span>4</span>
+				<span>5</span>
+				<span>6</span>
+				<span>7</span>
+				<span>8</span>
+				<span>9</span>
+				<span>&amp;</span>
+				<span>!</span>
+				<span>?</span>
+			</div>
+		
+			<div class="lowercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>&para;</span>
+				<span>,</span>
+				<span>:</span>
+				<span>;</span>
+				<span>@</span>
+				<span>*</span>
+				<span>$</span>
+				<span>%</span>
+				<span>#</span>
+				<span>&#8220;</span>
+				<span>&#8221;</span>
+				<span>&#189;</span>
+				<span>&copy;</span>
+			</div>
+		</div> <!-- /#bold .drawer -->
+
+		<div id="bold_ital" class="drawer clearfix">
+			<div class="uppercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>0</span>
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span>4</span>
+				<span>5</span>
+				<span>6</span>
+				<span>7</span>
+				<span>8</span>
+				<span>9</span>
+				<span>&amp;</span>
+				<span>!</span>
+				<span>?</span>
+			</div>
+		
+			<div class="lowercase clearfix">
+				<span>a</span>
+				<span>b</span>
+				<span>c</span>
+				<span>d</span>
+				<span>e</span>
+				<span>f</span>
+				<span>g</span>
+				<span>h</span>
+				<span>i</span>
+				<span>j</span>
+				<span>k</span>
+				<span>l</span>
+				<span>m</span>
+				<span>n</span>
+				<span>o</span>
+				<span>p</span>
+				<span>q</span>
+				<span>r</span>
+				<span>s</span>
+				<span>t</span>
+				<span>u</span>
+				<span>v</span>
+				<span>w</span>
+				<span>x</span>
+				<span>y</span>
+				<span>z</span>
+				<span>&para;</span>
+				<span>,</span>
+				<span>:</span>
+				<span>;</span>
+				<span>@</span>
+				<span>*</span>
+				<span>$</span>
+				<span>%</span>
+				<span>#</span>
+				<span>&#8220;</span>
+				<span>&#8221;</span>
+				<span>&#189;</span>
+				<span>&copy;</span>
+			</div>
+		</div> <!-- /.drawer -->
+
+	
+	</div> <!-- /#chars -->
+	
+	
+	<blockquote id="quote" class="clearfix" cite="http://classics.mit.edu/Antoninus/meditations.3.three.html">
+		<p>
+			
+			<span class="workest">
+				<span class="lquo">&#8220;</span>
+			The</span>
+			<span class="beforethee">quick </span>
+			<span class="following">brown</span>
+			<span class="seriously"><span class="smallcaps">fox</span> <strong>jumps</strong> <em>over</em></span>
+			<span class="allowing">the</span>
+			<span class="divine">lazy <em>dog</em> </span>
+			<span class="shouldst">The quick brown</span>
+			<span class="giveback">fox jumps over</span>
+			<span class="holdest">the lazy dog</span>
+			<span class="expecting">The quick brown</span>
+			<span class="fearing">fox</span>
+			<span class="satisfied">jumps over</span>
+			<span class="according">the lazy</span>
+			<span class="heroic">dog <em>the quick </em></span>
+			<span class="every">brown fox</span>
+			<span class="utterest">jumps over</span> 
+			<span class="livehappy">the </span> 
+			<span class="noman">lazy</span>
+			<span class="prevent">DOG
+				<span class="rquo">&#8221;</span>
+			</span>
+		</p> </blockquote>
+
+
+</div> <!-- /#wrap -->
+
+<h2>“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” 
+― Ralph Waldo Emerson</h2>
+
+<h3> “To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” 
+― Ralph Waldo Emerson</h3>
+
+<h4> “To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” 
+― Ralph Waldo Emerson</h4>
+
+<div class="move-me move-me-1">be yourself</div>
+<br>
+<div class="move-me move-me-2">in a world</div>
+<br>
+<div class="move-me move-me-3">that tries to change you</div>
